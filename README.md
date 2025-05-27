@@ -1,4 +1,7 @@
-![Smart Farming Visual](smart_farming_visual.png)
+<p align="center">
+  <img src="smart_farming_visual.png" alt="Smart Farming Visual" width="600"/>
+</p>
+
 
 🌱 Smart Farming: Predictive Modeling and Geographic Insights from IoT and Satellite Data
 
