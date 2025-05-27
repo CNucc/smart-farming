@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="smart_farming_visual.png" alt="Smart Farming Visual" width="100"/>
+  <img src="smart_farming_visual.png" alt="Smart Farming Visual" width="300"/>
 </p>
 
 
