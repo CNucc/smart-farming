@@ -1,4 +1,4 @@
-#🌱 Smart Farming: Predictive Modeling and Geographic Insights from IoT and Satellite Data
+🌱 Smart Farming: Predictive Modeling and Geographic Insights from IoT and Satellite Data
 
 📌 Project Description
 
