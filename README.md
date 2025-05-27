@@ -20,7 +20,7 @@ ________________________________________
 <br>• 📊 Exploratory data analysis
 <br>• 📍 Interactive maps with geospatial data
 <br>• 🧠 Supervised ML models: Random Forest, Linear Regression, XGBoost
-<br>• 🧪 Model interpretability (SHAP values)
+<br>• 🧪 Model interpretability
 <br>• 🧼 Preprocessing, feature engineering and cross-validation
 <br>• 🎯 Performance metrics: accuracy, F1-score, RMSE, R²
 ________________________________________
