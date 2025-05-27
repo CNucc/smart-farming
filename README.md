@@ -17,12 +17,12 @@ ________________________________________
 ________________________________________
 📦 Project contents
 
-• 📊 Exploratory data analysis
-• 📍 Interactive maps with geospatial data
-• 🧠 Supervised ML models: Random Forest, Linear Regression, XGBoost
-• 🧪 Model interpretability (SHAP values)
-• 🧼 Preprocessing, feature engineering and cross-validation
-• 🎯 Performance metrics: accuracy, F1-score, RMSE, R²
+<br>• 📊 Exploratory data analysis
+<br>• 📍 Interactive maps with geospatial data
+<br>• 🧠 Supervised ML models: Random Forest, Linear Regression, XGBoost
+<br>• 🧪 Model interpretability (SHAP values)
+<br>• 🧼 Preprocessing, feature engineering and cross-validation
+<br>• 🎯 Performance metrics: accuracy, F1-score, RMSE, R²
 ________________________________________
 💡 Why it's interesting
 
